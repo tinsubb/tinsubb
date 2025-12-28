@@ -9,6 +9,6 @@
 🤝 Open to collaborating on **educational** and **open-source projects**.  
 
 📫 You can reach me at:  
-[Email Me](mailto:tinsaebirhanub@gmail.com)  
+(mailto:tinsaebirhanub@gmail.com)  
 
 🔗 GitHub: [https://github.com/ktinsu](https://github.com/tinsubb)
