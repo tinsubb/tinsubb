@@ -4,7 +4,7 @@
 
 💡 Passionate about building real-world skills and solving problems through code.  
 
-💻 I am a **Front-End Developer** and **UX/UI Designer**, focused on creating engaging web experiences and improving my problem-solving skills through consistent effort and hard work.  
+💻 I am a **Front-End Developer**, focused on creating engaging web experiences and improving my problem-solving skills through consistent effort and hard work.  
 
 🤝 Open to collaborating on **educational** and **open-source projects**.  
 
